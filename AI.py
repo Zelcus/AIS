@@ -1,7 +1,7 @@
+import xlrd
 
-import gym
-env = gym.make('CartPole-v0')
-env.reset()
-for _ in range(1000):
-    env.render()
-    env.step(env.action_space.sample()) # take a random action
+workbook = xlrd.open_workbook("Spreadsheet.xlsx")
+
+worksheet = workbook.sheet_by_index(0)
+
+print("{0}".format(worksheet.cell(0,0).value))
