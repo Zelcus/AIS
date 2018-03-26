@@ -1,7 +1,12 @@
 import xlrd
+import pandas as pd
+import xgboost as xgb
+from sklearn.linear_model import LogisticRegression
+from sklearn.svm import SVC
+from IPython.display import display
 
-workbook = xlrd.open_workbook("Spreadsheet.xlsx")
+data = pd.read_csv("final_dataset.csv")
 
-worksheet = workbook.sheet_by_index(0)
+display(data.head())
 
-print("{0}".format(worksheet.cell(0,0).value))
+
