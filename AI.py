@@ -1,12 +1,11 @@
 import xlrd
-import pandas as pd
-import xgboost as xgb
-from sklearn.linear_model import LogisticRegression
-from sklearn.svm import SVC
-from IPython.display import display
-
-data = pd.read_csv("final_dataset.csv")
-
-display(data.head())
+import csv
+import pandas
 
 
+filename = "Spreadsheet.csv"
+names = ["league", "Date", "Blue Team", "Red Team", "FTBT", "FTRT", "FTR", "GBT", "GRT", "KBT", "KRT", "WBT","WRT","TDBT","TDRT","FBBT","FBRT","CWBT","CWRT","DBT","DRT","BBT","BRT","RBT","RRT","TBT","TRT","IBT","IRT"]
+
+data = pandas.read_csv(filename names=names)
+
+print(data.shape)
