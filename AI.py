@@ -15,7 +15,8 @@ y = data.FTR
 X = data.drop("FTR", axis = 1)
 
 
-#test_size = the amount of test-cases we would like. 
+#test_size = the amount of test-cases we would like.
+'''
 X_train, X_test, y_train, y_test = train_test_split(X, y,test_size=0.2)
 
 
@@ -27,7 +28,7 @@ print(X_train.head())
 
 print ("\nX_test:\n")
 print(X_test.head())
-
+'''
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(X, y)
