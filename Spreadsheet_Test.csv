@@ -1,0 +1,22 @@
+ID BT;ID RT;FTR;Blue Team;Red Team
+1;2;1;Splyce;G2 Esports
+3;4;0;Fnatic;FC Schalke 04
+2;5;0;G2 Esports;Team Vitality
+6;7;1;Unicorns of Love;Misfits Gaming
+8;9;1;ROCCAT;H2K
+10;1;1;Giants;Splyce
+6;2;1;Unicorns of Love;G2 Esports
+3;10;0;Fnatic;Giants
+5;1;0;Team Vitality;Splyce
+7;8;1;Misfits Gaming;ROCCAT
+4;9;1;FC Schalke 04;H2K
+4;2;0;FC Schalke 04;G2 Esports
+3;6;0;Fnatic;Unicorns of Love
+8;5;0;ROCCAT;Team Vitality
+9;1;1;H2K;Splyce
+10;7;0;Giants;Misfits Gaming
+3;8;0;Fnatic;ROCCAT
+2;9;1;G2 Esports;H2K
+7;1;1;Misfits Gaming;Splyce
+10;4;1;Giants;FC Schalke 04
+6;5;1;Unicorns of Love;Team Vitality
