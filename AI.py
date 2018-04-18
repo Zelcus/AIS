@@ -37,6 +37,7 @@ clf = tree.DecisionTreeClassifier()
 clf = clf.fit(X_train, y_train)
 #Blue Team with ID X vs Red Team with ID Y.
 predictions = clf.predict(X_test)
+
 print(predictions)
 
 from sklearn.metrics import accuracy_score
