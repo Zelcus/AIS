@@ -1,0 +1,8 @@
+League ID = 1
+Team ID'S:
+
+1 = SKT Telecom T1
+2 = KSV
+3 = KT Rolster
+4 = Afreeca Freecs
+5 = KING-ZONE DragonX
