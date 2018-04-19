@@ -6,3 +6,6 @@ Team ID'S:
 3 = KT Rolster
 4 = Afreeca Freecs
 5 = KING-ZONE DragonX
+
+BLUE WIN=2
+RED WIN=1

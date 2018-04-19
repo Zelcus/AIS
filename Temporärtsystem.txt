@@ -1,0 +1,17 @@
+Rubrik: Ordningen som datumen står i matchar ordningen som raderna i "Test.txt." är utformade.
+31/3-18 Game 1 SKT-KSV
+31/3-18 Game 2 SKT-KSV
+31/3-18 Game 3 SKT-KSV
+04/4-18 Game 1 SKT-KT
+04/4-18 Game 2 SKT-KT
+04/4-18 Game 3 SKT-KT
+04/4-18 Game 4 SKT-KT
+01/3-18 Game 1 SKT-Afreeca
+01/3-18 Game 2 SKT-Afreeca
+01/3-18 Game 3 SKT-Afreeca
+06/3-18 Game 1 SKT-King-Zone
+06/3-18 Game 2 SKT-King-Zone
+10/3-18 Game 1 KSV-KT
+10/3-18 Game 2 KSV-KT
+10/3-18 Game 3 KSV-KT
+
