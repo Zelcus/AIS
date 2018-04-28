@@ -1,10 +1,12 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn import tree
-data = pd.read_csv("Test.txt")
+data = pd.read_csv("C://Users//rikar//Desktop//VS Code WS//AIS//Test.txt")
 
 
 print (data.head())
+print (data.columns)
+
 
 
 '''
