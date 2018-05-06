@@ -4,3 +4,5 @@ Dela upp Dragons i egna kategorier.
 Då vi skriver binärt använder vi oss endast av 1 och 0.
 
 Just nu randomizas test- och trainingdata. Målet är att vi manuellt ska kunna mata in testdata.
+
+Gör nytt exemplar av testdatan i UTF-8 format varje gång den uppdateras
