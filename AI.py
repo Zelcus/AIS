@@ -1,10 +1,11 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn import tree
-data = pd.read_csv("C://Users//rikar//Desktop//VS Code WS//AIS//Test.txt")
+data = pd.read_csv("C://Users//rikar//Desktop//VS Code WS//AIS//TestUTF-8(temp).csv", sep=';')
+#sep=';' tells the computer that we use semicolons as separators between columns
+#have to use 'raw path' therefor the double-inverted-dashes
 
-
-print (data.head())
+print (data) #Works and prints all the data, however in its raw form, not pretty
 print (data.columns)
 
 
