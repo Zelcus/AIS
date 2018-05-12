@@ -1,0 +1,18 @@
+1. Träningsdata samlas in från top-10 lag i LCK tills en signifikant mängd data erhållits. Därefter förbättras och avslutas AI:n 
+så att denna är funktionell. 
+
+2. Konstruera ett fungerande interface till AI:n så att denna kan publiceras och användas av andra individer. 
+ - Kom fram till målgrupp
+ - Utifrån detta, vilket interface tilltalar dessa bäst och varför?
+ - Rita upp exempel på hur designen kan se ut och undersök utifrån denna ifall det kan fungera för att attrahera användare
+   (info på nätet, undersökningar osv.)
+ - Ifall dessa "användningstesten/acceptanstesten" anses godkända, genomför då design och funktionalitetsutforming
+ - Testa systemet för uppfyllnad av önskad funktionalitet
+ - Om godkänt, publicera
+ - Marknadsför?
+
+3. Samma dataninsamling påbörjas för EU LCS och även här förväntas allting fungera innan steg 3 genomförs.
+
+4. Upprepa steg 3 fast med NA LCS
+
+5. Addera sedan dessa funktionerna till den redan publicerade AI:n och interfacet för att utöka funktionaliteten hos denna
