@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn import tree
-data = pd.read_csv("C://Users//rikar//Desktop//VS Code WS//AIS//TestUTF-8(temp).csv", sep=';')
+data = pd.read_csv("C://Users//rikar//Desktop//VS Code WS//AIS//TrainingData.csv", sep=';')
 #sep=';' tells the computer that we use semicolons as separators between columns
 #have to use 'raw path' therefor the double-inverted-dashes
 
