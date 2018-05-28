@@ -17,4 +17,5 @@ så att denna är funktionell.
 
 5. Addera sedan dessa funktionerna till den redan publicerade AI:n och interfacet för att utöka funktionaliteten hos denna
 
-UPPDATERA BACKUPFILEN PÅ TRÄNINGSDATAN EFTER VARJE GÅNG DU UTÖKAT DATAN!!
+Omorganisera Matchsystemet så alla datum står till höger om kolumnerna där man skriver vilka som mötts och hur många ggr.
+
